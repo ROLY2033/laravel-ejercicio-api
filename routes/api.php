@@ -5,6 +5,10 @@ use App\Http\Controllers\ResetController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
+
+// LINK OF TEST
+// https://ipkiss.pragmazero.com/
+
 // Reset state before starting tests
 // POST /reset
 // 200 OK
